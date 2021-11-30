@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AKAA,AAAA,KAAK,AAAC,CACF,KAAK,CAAE,MAAM,CACb,MAAM,CAAE,KAAK,CACb,MAAM,CAAE,MAAM,CACd,UAAU,CAAE,IAAI,CAChB,eAAe,CAAE,QAAQ,CAC5B,AAED,AAAA,GAAG,CAAE,GAAG,AAAC,CACL,MAAM,CAAE,eAAe,CACvB,UAAU,CAAE,MAAM,CACrB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_normalize.scss",
+        "../scss/_fonts.scss",
+        "../scss/_general.scss",
+        "../scss/all-blocks/_all-blocks.scss",
+        "../scss/all-blocks/_table.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
